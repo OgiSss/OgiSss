@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey, I'm Oskar!👋
 
-<!--
-**OgiSss/OgiSss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Am a Front-end developer currently working with Angular and Node. I'm also into writing and open source.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [React](https://www.google.com)
+- 🌱 I’m currently learning [React](https://www.google.com)
+- 👯 I’m looking to collaborate on [React](https://www.google.com) and [Angular](https://angular.io/)
+- 🤔 I’m looking for help with ... Node.js
+- 💬 Ask me about ... [Angular](https://angular.io/) 
+- 📫 How to reach me: ... okumorsoftware@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Winter is coming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter https://twitter.com/okumorsoftware
