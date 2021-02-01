@@ -1,6 +1,6 @@
 ## Hey, I'm Oskar!👋
 
-Am a Front-end developer currently working with Angular and Node. I'm also into writing and open source.
+Am a Front-end developer currently working with Angular and React.
 
 - 🔭 I’m currently working on [React](https://www.google.com)
 - 🌱 I’m currently learning [React](https://www.google.com)
