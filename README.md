@@ -10,6 +10,6 @@ Am a Front-end developer currently working with Angular and React.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Winter is coming
 
-Twitter https://twitter.com/okumorsoftware
-Linkedin https://twitter.com/okumorsoftware
+Twitter https://twitter.com/okumorsoftware \
+Linkedin https://twitter.com/okumorsoftware \
 Website https://oksoftware.online/
